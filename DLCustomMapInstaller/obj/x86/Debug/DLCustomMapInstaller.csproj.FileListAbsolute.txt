@@ -1,0 +1,10 @@
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\DLCustomMapInstaller\DLCustomMapInstaller\bin\x86\Debug\DLCustomMapInstaller.exe
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\DLCustomMapInstaller\DLCustomMapInstaller\bin\x86\Debug\DLCustomMapInstaller.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\DLCustomMapInstaller\DLCustomMapInstaller\obj\x86\Debug\DLCustomMapInstaller.Form1.resources
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\DLCustomMapInstaller\DLCustomMapInstaller\obj\x86\Debug\DLCustomMapInstaller.Properties.Resources.resources
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\DLCustomMapInstaller\DLCustomMapInstaller\obj\x86\Debug\DLCustomMapInstaller.csproj.GenerateResource.Cache
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\DLCustomMapInstaller\DLCustomMapInstaller\obj\x86\Debug\DLCustomMapInstaller.exe
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\DLCustomMapInstaller\DLCustomMapInstaller\obj\x86\Debug\DLCustomMapInstaller.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\DLCustomMapInstaller\DLCustomMapInstaller\obj\x86\Debug\DLCustomMapInstaller.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\DLCustomMapInstaller\DLCustomMapInstaller\obj\x86\Debug\DLCustomMapInstaller.AsyncDownloader.resources
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\DLCustomMapInstaller\DLCustomMapInstaller\bin\x86\Debug\Ionic.Zip.dll
